@@ -2,7 +2,6 @@
 
 Go · Kubernetes · Observability  
 Also into small ops hardware toys for the desk / homelab.
-a.
 
 ### Stack
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
