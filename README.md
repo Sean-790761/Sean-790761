@@ -18,8 +18,3 @@ Also into small ops hardware toys for the desk / homelab.
 
 ### Hardware
 Console cables, travel routers, PiKVM / smart PDU, mini PCs — practical gear, not RGB.
-
-<p>
-  <img height="140" src="https://github-readme-stats.vercel.app/api?username=Sean-790761&show_icons=true&theme=transparent&hide_border=true&title_color=111&icon_color=326CE5&text_color=333" alt="stats" />
-  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-790761&layout=compact&theme=transparent&hide_border=true&title_color=111&text_color=333" alt="langs" />
-</p>
