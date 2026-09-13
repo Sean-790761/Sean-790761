@@ -2,8 +2,7 @@
 
 Go · Kubernetes · Observability  
 Also into small ops hardware toys for the desk / homelab.
-
-**Now:** [prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) and cloud-native infra.
+a.
 
 ### Stack
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
