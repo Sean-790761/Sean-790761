@@ -1,16 +1,27 @@
-## Hi there 👋
+# Sean
 
-<!--
-**Sean-790761/Sean-790761** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Go · Kubernetes · Observability  
+Also into small ops hardware toys for the desk / homelab.
 
-Here are some ideas to get you started:
+**Now:** [prometheus-operator](https://github.com/prometheus-operator/prometheus-operator) and cloud-native infra.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stack
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+
+### Exploring
+- [prometheus-operator](https://github.com/Sean-790761/prometheus-operator) — Prometheus on Kubernetes
+- [VictoriaMetrics](https://github.com/Sean-790761/VictoriaMetrics) — metrics / TSDB
+- [agent-sandbox](https://github.com/Sean-790761/agent-sandbox) — AI agent runtimes
+- [firecracker](https://github.com/Sean-790761/firecracker) — microVMs
+- [HAMi](https://github.com/Sean-790761/HAMi) — GPU sharing on K8s
+
+### Hardware
+Console cables, travel routers, PiKVM / smart PDU, mini PCs — practical gear, not RGB.
+
+<p>
+  <img height="140" src="https://github-readme-stats.vercel.app/api?username=Sean-790761&show_icons=true&theme=transparent&hide_border=true&title_color=111&icon_color=326CE5&text_color=333" alt="stats" />
+  <img height="140" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sean-790761&layout=compact&theme=transparent&hide_border=true&title_color=111&text_color=333" alt="langs" />
+</p>
